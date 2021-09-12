@@ -1,0 +1,5 @@
+package featureSelection.basic.support.reductMiningStrategy.heuristic;
+
+import featureSelection.basic.support.reductMiningStrategy.ReductMiningStrategy;
+
+public interface HeuristicReductMiningStrategy extends ReductMiningStrategy {}

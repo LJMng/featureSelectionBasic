@@ -1,0 +1,5 @@
+package featureSelection.basic.support.reductMiningStrategy.optimization;
+
+import featureSelection.basic.support.reductMiningStrategy.ReductMiningStrategy;
+
+public interface OptimizationReductMiningStrategy extends ReductMiningStrategy {}
